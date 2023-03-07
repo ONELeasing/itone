@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/itone/static/js/main.25ac34eb.js",
+    "main.js": "/itone/static/js/main.d9652e05.js",
     "static/js/787.cf9d8106.chunk.js": "/itone/static/js/787.cf9d8106.chunk.js",
     "static/media/Seal.png": "/itone/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/ksm-logo.jpg": "/itone/static/media/ksm-logo.19659687fd0af23cf8be.jpg",
@@ -9,10 +9,10 @@
     "static/media/CAL2009_Watermark.png": "/itone/static/media/CAL2009_Watermark.02007b05dcf0a50388fc.png",
     "static/media/CALLEASING_Watermark.png": "/itone/static/media/CALLEASING_Watermark.1f91f175a893fca2f3ff.png",
     "index.html": "/itone/index.html",
-    "main.25ac34eb.js.map": "/itone/static/js/main.25ac34eb.js.map",
+    "main.d9652e05.js.map": "/itone/static/js/main.d9652e05.js.map",
     "787.cf9d8106.chunk.js.map": "/itone/static/js/787.cf9d8106.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.25ac34eb.js"
+    "static/js/main.d9652e05.js"
   ]
 }
