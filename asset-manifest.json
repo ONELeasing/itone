@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/itone/static/js/main.3a98a4af.js",
+    "main.js": "/itone/static/js/main.e6f2927f.js",
     "static/js/787.cf9d8106.chunk.js": "/itone/static/js/787.cf9d8106.chunk.js",
     "static/media/Seal.png": "/itone/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/KSM_Watermark.png": "/itone/static/media/KSM_Watermark.2baa52a96db57dad9b45.png",
@@ -11,10 +11,10 @@
     "static/media/ONEMoney_Watermark.png": "/itone/static/media/ONEMoney_Watermark.cc20004b9e25d748f6db.png",
     "static/media/ONELeasing_Watermark.png": "/itone/static/media/ONELeasing_Watermark.8074cad9d6cf380176fa.png",
     "index.html": "/itone/index.html",
-    "main.3a98a4af.js.map": "/itone/static/js/main.3a98a4af.js.map",
+    "main.e6f2927f.js.map": "/itone/static/js/main.e6f2927f.js.map",
     "787.cf9d8106.chunk.js.map": "/itone/static/js/787.cf9d8106.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a98a4af.js"
+    "static/js/main.e6f2927f.js"
   ]
 }
