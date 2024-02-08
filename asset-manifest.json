@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.js": "/itone/static/js/main.9921b998.js",
+    "main.js": "/itone/static/js/main.bb0a91bd.js",
     "static/js/787.cf9d8106.chunk.js": "/itone/static/js/787.cf9d8106.chunk.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
+    "static/media/KSM-Acounting-Signature.png": "/itone/static/media/KSM-Acounting-Signature.be50d6287169329a1282.png",
     "static/media/Seal.png": "/itone/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/ONELeasing_Transparent.png": "/itone/static/media/ONELeasing_Transparent.67b0513e97e2ba450a53.png",
     "static/media/Pueng_signature.png": "/itone/static/media/Pueng_signature.0c20e5908e9493cbd819.png",
@@ -19,10 +20,10 @@
     "static/media/ONEMoney_Watermark.png": "/itone/static/media/ONEMoney_Watermark.cc20004b9e25d748f6db.png",
     "static/media/ONELeasing_Watermark.png": "/itone/static/media/ONELeasing_Watermark.8074cad9d6cf380176fa.png",
     "index.html": "/itone/index.html",
-    "main.9921b998.js.map": "/itone/static/js/main.9921b998.js.map",
+    "main.bb0a91bd.js.map": "/itone/static/js/main.bb0a91bd.js.map",
     "787.cf9d8106.chunk.js.map": "/itone/static/js/787.cf9d8106.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9921b998.js"
+    "static/js/main.bb0a91bd.js"
   ]
 }
