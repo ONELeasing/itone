@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.afe0c741.css",
-    "main.js": "/itone/static/js/main.0e30ead6.js",
+    "main.js": "/itone/static/js/main.8c5f825b.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
     "static/media/Seal.png": "/itone/static/media/Seal.211b75032f0159a0650e.png",
+    "static/media/TENX-01.png": "/itone/static/media/TENX-01.3e982d10efc844fe3328.png",
     "static/media/ONELeasing_Transparent.png": "/itone/static/media/ONELeasing_Transparent.67b0513e97e2ba450a53.png",
     "static/media/Pueng_signature.png": "/itone/static/media/Pueng_signature.0c20e5908e9493cbd819.png",
     "static/media/TENX.jpg": "/itone/static/media/TENX.8faef1a6bd130f3ed78b.jpg",
@@ -21,12 +22,13 @@
     "static/media/ONEMoney_transparent.png": "/itone/static/media/ONEMoney_transparent.2a831ce8a0fc61cbed55.png",
     "static/media/ONEMoney_Watermark.png": "/itone/static/media/ONEMoney_Watermark.cc20004b9e25d748f6db.png",
     "static/media/ONELeasing_Watermark.png": "/itone/static/media/ONELeasing_Watermark.8074cad9d6cf380176fa.png",
+    "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.afe0c741.css.map": "/itone/static/css/main.afe0c741.css.map",
-    "main.0e30ead6.js.map": "/itone/static/js/main.0e30ead6.js.map"
+    "main.8c5f825b.js.map": "/itone/static/js/main.8c5f825b.js.map"
   },
   "entrypoints": [
     "static/css/main.afe0c741.css",
-    "static/js/main.0e30ead6.js"
+    "static/js/main.8c5f825b.js"
   ]
 }
