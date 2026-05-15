@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.524e6596.css",
-    "main.js": "/itone/static/js/main.765a1242.js",
+    "main.js": "/itone/static/js/main.2cf5003b.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
@@ -11,6 +11,7 @@
     "static/media/oc21_condo_receive.jpg": "/itone/static/media/oc21_condo_receive.39f5c5eceaacd00afa5a.jpg",
     "static/media/oc21_condo_transfer.jpg": "/itone/static/media/oc21_condo_transfer.a78e77905f074fec56a3.jpg",
     "static/media/THSarabunNew.ttf": "/itone/static/media/THSarabunNew.a60f10a0bb7be182947e.ttf",
+    "static/media/one_amc.png": "/itone/static/media/one_amc.0c76af7927e0daf8a1a5.png",
     "static/media/certificate_5.jpg": "/itone/static/media/certificate_5.33be0f5012f7c7b851fe.jpg",
     "static/media/certificate_1.jpg": "/itone/static/media/certificate_1.911da18d2bb3add833e4.jpg",
     "static/media/THSarabunNew Bold.ttf": "/itone/static/media/THSarabunNew Bold.bba24ce84930eb52c43e.ttf",
@@ -20,7 +21,6 @@
     "static/media/Seal.png": "/itone/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/TENX-01.png": "/itone/static/media/TENX-01.3e982d10efc844fe3328.png",
     "static/media/ONELeasing_Transparent.png": "/itone/static/media/ONELeasing_Transparent.67b0513e97e2ba450a53.png",
-    "static/media/one_amc.png": "/itone/static/media/one_amc.cde4d019d64f06cdcabe.png",
     "static/media/Pueng_signature.png": "/itone/static/media/Pueng_signature.0c20e5908e9493cbd819.png",
     "static/media/TENX.jpg": "/itone/static/media/TENX.8faef1a6bd130f3ed78b.jpg",
     "static/media/KSM-Blue.png": "/itone/static/media/KSM-Blue.c17fc4fec2b529736ebd.png",
@@ -37,10 +37,10 @@
     "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.524e6596.css.map": "/itone/static/css/main.524e6596.css.map",
-    "main.765a1242.js.map": "/itone/static/js/main.765a1242.js.map"
+    "main.2cf5003b.js.map": "/itone/static/js/main.2cf5003b.js.map"
   },
   "entrypoints": [
     "static/css/main.524e6596.css",
-    "static/js/main.765a1242.js"
+    "static/js/main.2cf5003b.js"
   ]
 }
