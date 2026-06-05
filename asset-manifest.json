@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.524e6596.css",
-    "main.js": "/itone/static/js/main.a46a0cd7.js",
+    "main.js": "/itone/static/js/main.9f7f78c8.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
@@ -18,7 +18,7 @@
     "static/media/one_amc.png": "/itone/static/media/one_amc.0c76af7927e0daf8a1a5.png",
     "static/media/certificate_5.jpg": "/itone/static/media/certificate_5.33be0f5012f7c7b851fe.jpg",
     "static/media/certificate_1.jpg": "/itone/static/media/certificate_1.911da18d2bb3add833e4.jpg",
-    "static/media/sale_contract_0001.jpg": "/itone/static/media/sale_contract_0001.f9579a03e73012acb744.jpg",
+    "static/media/sale_contract_0001.jpg": "/itone/static/media/sale_contract_0001.46101972496acae7619b.jpg",
     "static/media/THSarabunNew Bold.ttf": "/itone/static/media/THSarabunNew Bold.bba24ce84930eb52c43e.ttf",
     "static/media/certificate_2.jpg": "/itone/static/media/certificate_2.f4f954e13087c15307be.jpg",
     "static/media/td21_back.jpg": "/itone/static/media/td21_back.b884ba739f883222a2fb.jpg",
@@ -43,10 +43,10 @@
     "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.524e6596.css.map": "/itone/static/css/main.524e6596.css.map",
-    "main.a46a0cd7.js.map": "/itone/static/js/main.a46a0cd7.js.map"
+    "main.9f7f78c8.js.map": "/itone/static/js/main.9f7f78c8.js.map"
   },
   "entrypoints": [
     "static/css/main.524e6596.css",
-    "static/js/main.a46a0cd7.js"
+    "static/js/main.9f7f78c8.js"
   ]
 }
