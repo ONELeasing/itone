@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.524e6596.css",
-    "main.js": "/itone/static/js/main.8d337890.js",
+    "main.js": "/itone/static/js/main.8b277803.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
@@ -15,7 +15,7 @@
     "static/media/sale_contract_0002.jpg": "/itone/static/media/sale_contract_0002.aef777438fcea41c3322.jpg",
     "static/media/sale_condo_0002.jpg": "/itone/static/media/sale_condo_0002.8052965bed6b10e8d770.jpg",
     "static/media/sale_contract_0003.jpg": "/itone/static/media/sale_contract_0003.27ed43eefbfb2f1e35dc.jpg",
-    "static/media/transferNotice.jpg": "/itone/static/media/transferNotice.acf29a73b3cae1c2a1b5.jpg",
+    "static/media/transferNotice.jpg": "/itone/static/media/transferNotice.9bef87161045973caa1f.jpg",
     "static/media/sale_condo_0003.jpg": "/itone/static/media/sale_condo_0003.397a18ee6d4f4c077b31.jpg",
     "static/media/one_amc.png": "/itone/static/media/one_amc.f04397016a55cb0c1a5b.png",
     "static/media/THSarabunNew.ttf": "/itone/static/media/THSarabunNew.a60f10a0bb7be182947e.ttf",
@@ -49,10 +49,10 @@
     "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.524e6596.css.map": "/itone/static/css/main.524e6596.css.map",
-    "main.8d337890.js.map": "/itone/static/js/main.8d337890.js.map"
+    "main.8b277803.js.map": "/itone/static/js/main.8b277803.js.map"
   },
   "entrypoints": [
     "static/css/main.524e6596.css",
-    "static/js/main.8d337890.js"
+    "static/js/main.8b277803.js"
   ]
 }
