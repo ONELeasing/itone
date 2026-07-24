@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.f1777e28.css",
-    "main.js": "/itone/static/js/main.313deda9.js",
+    "main.js": "/itone/static/js/main.24e7b0ba.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
@@ -10,11 +10,17 @@
     "static/media/td21_receive_building.jpg": "/itone/static/media/td21_receive_building.adfe656afb8e42d11851.jpg",
     "static/media/td21_transfer_empty.jpg": "/itone/static/media/td21_transfer_empty.3bb6f40968b284910acc.jpg",
     "static/media/td21_receive_empty.jpg": "/itone/static/media/td21_receive_empty.993945736446cc66fbfd.jpg",
+    "static/media/td21_building_1.jpg": "/itone/static/media/td21_building_1.837dc1f576ebf0c5d011.jpg",
+    "static/media/td21_land_1.jpg": "/itone/static/media/td21_land_1.05f5f77ed6b002921941.jpg",
     "static/media/AMC_history.jpg": "/itone/static/media/AMC_history.31394dbc745694d2dd38.jpg",
+    "static/media/LoanAgreement02.jpg": "/itone/static/media/LoanAgreement02.39ef58d9e40e7e9b373d.jpg",
     "static/media/oc21_receive.jpg": "/itone/static/media/oc21_receive.8c8f3fc1978921540b32.jpg",
     "static/media/oc21_transfer.jpg": "/itone/static/media/oc21_transfer.f54058990ef28b8806ce.jpg",
     "static/media/sale_contract_0002.jpg": "/itone/static/media/sale_contract_0002.aef777438fcea41c3322.jpg",
     "static/media/sale_condo_0002.jpg": "/itone/static/media/sale_condo_0002.8052965bed6b10e8d770.jpg",
+    "static/media/to4_building_01.jpg": "/itone/static/media/to4_building_01.8c91f37a43143b633dc9.jpg",
+    "static/media/LoanAgreement01.jpg": "/itone/static/media/LoanAgreement01.3935b59d2ef86654a467.jpg",
+    "static/media/to4_land_1.jpg": "/itone/static/media/to4_land_1.81e34001a0b43144f317.jpg",
     "static/media/sale_contract_0003.jpg": "/itone/static/media/sale_contract_0003.27ed43eefbfb2f1e35dc.jpg",
     "static/media/transferNotice.jpg": "/itone/static/media/transferNotice.a94405cf2b345059af0b.jpg",
     "static/media/sale_condo_0003.jpg": "/itone/static/media/sale_condo_0003.397a18ee6d4f4c077b31.jpg",
@@ -26,6 +32,7 @@
     "static/media/sale_contract_0001.jpg": "/itone/static/media/sale_contract_0001.830f68401d82a01b2653.jpg",
     "static/media/sale_condo_0001.jpg": "/itone/static/media/sale_condo_0001.d1e6e7d0434e4b807d93.jpg",
     "static/media/THSarabunNew Bold.ttf": "/itone/static/media/THSarabunNew Bold.bba24ce84930eb52c43e.ttf",
+    "static/media/report_meeting.jpg": "/itone/static/media/report_meeting.58434c89de50fbd1ffc2.jpg",
     "static/media/Request.jpg": "/itone/static/media/Request.aa6a7c2dce3743bb62ee.jpg",
     "static/media/certificate_2.jpg": "/itone/static/media/certificate_2.f4f954e13087c15307be.jpg",
     "static/media/td21_back.jpg": "/itone/static/media/td21_back.b884ba739f883222a2fb.jpg",
@@ -39,6 +46,7 @@
     "static/media/ONELeasing_Transparent.png": "/itone/static/media/ONELeasing_Transparent.67b0513e97e2ba450a53.png",
     "static/media/Pueng_signature.png": "/itone/static/media/Pueng_signature.0c20e5908e9493cbd819.png",
     "static/media/TENX.jpg": "/itone/static/media/TENX.8faef1a6bd130f3ed78b.jpg",
+    "static/media/LoanAgreement03.jpg": "/itone/static/media/LoanAgreement03.b75e55f3ec0e83944937.jpg",
     "static/media/KSM-Blue.png": "/itone/static/media/KSM-Blue.c17fc4fec2b529736ebd.png",
     "static/media/KSM-Seal.png": "/itone/static/media/KSM-Seal.7ec71e156a56b2163172.png",
     "static/media/KSM_Watermark.png": "/itone/static/media/KSM_Watermark.2baa52a96db57dad9b45.png",
@@ -54,10 +62,10 @@
     "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.f1777e28.css.map": "/itone/static/css/main.f1777e28.css.map",
-    "main.313deda9.js.map": "/itone/static/js/main.313deda9.js.map"
+    "main.24e7b0ba.js.map": "/itone/static/js/main.24e7b0ba.js.map"
   },
   "entrypoints": [
     "static/css/main.f1777e28.css",
-    "static/js/main.313deda9.js"
+    "static/js/main.24e7b0ba.js"
   ]
 }
