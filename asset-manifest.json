@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.f1777e28.css",
-    "main.js": "/itone/static/js/main.ab91de6f.js",
+    "main.js": "/itone/static/js/main.6dd9afa1.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
-    "static/media/certificate_3.jpg": "/itone/static/media/certificate_3.658dfef808899627037a.jpg",
+    "static/media/certificate_3.jpg": "/itone/static/media/certificate_3.b8d6a497a4569f04783b.jpg",
     "static/media/td21_transfer_building.jpg": "/itone/static/media/td21_transfer_building.16a7ed292bf0edf4f770.jpg",
     "static/media/td21_receive_building.jpg": "/itone/static/media/td21_receive_building.adfe656afb8e42d11851.jpg",
     "static/media/td21_transfer_empty.jpg": "/itone/static/media/td21_transfer_empty.3bb6f40968b284910acc.jpg",
@@ -17,6 +17,7 @@
     "static/media/oc21_receive.jpg": "/itone/static/media/oc21_receive.8c8f3fc1978921540b32.jpg",
     "static/media/oc21_transfer.jpg": "/itone/static/media/oc21_transfer.f54058990ef28b8806ce.jpg",
     "static/media/sale_contract_0002.jpg": "/itone/static/media/sale_contract_0002.aef777438fcea41c3322.jpg",
+    "static/media/certificate_5.jpg": "/itone/static/media/certificate_5.3f9c7fccbcb57e4b7b84.jpg",
     "static/media/sale_condo_0002.jpg": "/itone/static/media/sale_condo_0002.8052965bed6b10e8d770.jpg",
     "static/media/LoanAgreement01.jpg": "/itone/static/media/LoanAgreement01.04cf8ca1f7d252c36e42.jpg",
     "static/media/to4_building_01.jpg": "/itone/static/media/to4_building_01.aae34b7371978edde4c2.jpg",
@@ -26,19 +27,18 @@
     "static/media/sale_condo_0003.jpg": "/itone/static/media/sale_condo_0003.397a18ee6d4f4c077b31.jpg",
     "static/media/Confirm_1.jpg": "/itone/static/media/Confirm_1.dbb74085c48bdf87e7ab.jpg",
     "static/media/one_amc.png": "/itone/static/media/one_amc.f04397016a55cb0c1a5b.png",
+    "static/media/certificate_1.jpg": "/itone/static/media/certificate_1.19707ee73096263ec1e0.jpg",
     "static/media/THSarabunNew.ttf": "/itone/static/media/THSarabunNew.a60f10a0bb7be182947e.ttf",
-    "static/media/certificate_5.jpg": "/itone/static/media/certificate_5.33be0f5012f7c7b851fe.jpg",
-    "static/media/certificate_1.jpg": "/itone/static/media/certificate_1.911da18d2bb3add833e4.jpg",
     "static/media/sale_contract_0001.jpg": "/itone/static/media/sale_contract_0001.830f68401d82a01b2653.jpg",
     "static/media/sale_condo_0001.jpg": "/itone/static/media/sale_condo_0001.d1e6e7d0434e4b807d93.jpg",
+    "static/media/certificate_2.jpg": "/itone/static/media/certificate_2.7977ad5cd02a2929d860.jpg",
     "static/media/THSarabunNew Bold.ttf": "/itone/static/media/THSarabunNew Bold.bba24ce84930eb52c43e.ttf",
     "static/media/report_meeting.jpg": "/itone/static/media/report_meeting.056156877288ebbfba31.jpg",
     "static/media/Request.jpg": "/itone/static/media/Request.aa6a7c2dce3743bb62ee.jpg",
-    "static/media/certificate_2.jpg": "/itone/static/media/certificate_2.f4f954e13087c15307be.jpg",
+    "static/media/certificate_4.jpg": "/itone/static/media/certificate_4.7d6c0b49dc007a50ad1c.jpg",
     "static/media/td21_back.jpg": "/itone/static/media/td21_back.b884ba739f883222a2fb.jpg",
     "static/media/sale_condo_0004.jpg": "/itone/static/media/sale_condo_0004.c9f3d930e64f72dd21c6.jpg",
     "static/media/sale_contract_0004.jpg": "/itone/static/media/sale_contract_0004.6a7edf17a5953f49f39f.jpg",
-    "static/media/certificate_4.jpg": "/itone/static/media/certificate_4.aa2d27f002eefd7d7bf2.jpg",
     "static/media/end_page.jpg": "/itone/static/media/end_page.519ce8f0ca79802c28fd.jpg",
     "static/media/Seal.png": "/itone/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/Response.jpg": "/itone/static/media/Response.ce6cff1fcbb793aff83a.jpg",
@@ -62,10 +62,10 @@
     "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.f1777e28.css.map": "/itone/static/css/main.f1777e28.css.map",
-    "main.ab91de6f.js.map": "/itone/static/js/main.ab91de6f.js.map"
+    "main.6dd9afa1.js.map": "/itone/static/js/main.6dd9afa1.js.map"
   },
   "entrypoints": [
     "static/css/main.f1777e28.css",
-    "static/js/main.ab91de6f.js"
+    "static/js/main.6dd9afa1.js"
   ]
 }
