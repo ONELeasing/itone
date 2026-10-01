@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/itone/static/css/main.f1777e28.css",
-    "main.js": "/itone/static/js/main.2b1b6bbe.js",
+    "main.js": "/itone/static/js/main.e9c51fe5.js",
     "static/media/OneMoney_seal.png": "/itone/static/media/OneMoney_seal.c40b95771bb3c359c341.png",
     "static/media/Tenx_seal.png": "/itone/static/media/Tenx_seal.3637442306a969ca7ac8.png",
     "static/media/OneLeasing_seal.png": "/itone/static/media/OneLeasing_seal.8e7887f9a125e4f2ab0f.png",
     "static/media/certificate_3.jpg": "/itone/static/media/certificate_3.b8d6a497a4569f04783b.jpg",
-    "static/media/td21_transfer_building.jpg": "/itone/static/media/td21_transfer_building.16a7ed292bf0edf4f770.jpg",
-    "static/media/td21_receive_building.jpg": "/itone/static/media/td21_receive_building.adfe656afb8e42d11851.jpg",
-    "static/media/td21_transfer_empty.jpg": "/itone/static/media/td21_transfer_empty.3bb6f40968b284910acc.jpg",
-    "static/media/td21_receive_empty.jpg": "/itone/static/media/td21_receive_empty.993945736446cc66fbfd.jpg",
+    "static/media/td21_receive_building.jpg": "/itone/static/media/td21_receive_building.e29f2dd6f5c8193eba29.jpg",
+    "static/media/td21_transfer_building.jpg": "/itone/static/media/td21_transfer_building.dcffb279b7695030d6b2.jpg",
+    "static/media/td21_receive_empty.jpg": "/itone/static/media/td21_receive_empty.26d4d1ac9c0e9037fc60.jpg",
+    "static/media/td21_transfer_empty.jpg": "/itone/static/media/td21_transfer_empty.7d1d3c7f8f554fbdbf77.jpg",
     "static/media/td21_building_1.jpg": "/itone/static/media/td21_building_1.b008169ff5c9779b9c6b.jpg",
     "static/media/td21_land_1.jpg": "/itone/static/media/td21_land_1.178bdb4774c3dc0cd067.jpg",
     "static/media/AMC_history.jpg": "/itone/static/media/AMC_history.31394dbc745694d2dd38.jpg",
@@ -62,10 +62,10 @@
     "static/media/TENX_Watermark.png": "/itone/static/media/TENX_Watermark.0f97194161a17922a591.png",
     "index.html": "/itone/index.html",
     "main.f1777e28.css.map": "/itone/static/css/main.f1777e28.css.map",
-    "main.2b1b6bbe.js.map": "/itone/static/js/main.2b1b6bbe.js.map"
+    "main.e9c51fe5.js.map": "/itone/static/js/main.e9c51fe5.js.map"
   },
   "entrypoints": [
     "static/css/main.f1777e28.css",
-    "static/js/main.2b1b6bbe.js"
+    "static/js/main.e9c51fe5.js"
   ]
 }
