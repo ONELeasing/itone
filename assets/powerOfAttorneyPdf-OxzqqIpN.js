@@ -1,1 +1,0 @@
-import{r as e}from"./PowerOfAttorneyPage-DlpoIxy6.js";export{e as buildOneMoneyPdf};
