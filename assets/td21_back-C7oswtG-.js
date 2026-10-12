@@ -1,0 +1,1 @@
+var e=`/itone/assets/td21_back-DXsC-gPv.jpg`;export{e as t};

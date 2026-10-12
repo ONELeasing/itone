@@ -1,0 +1,1 @@
+import{r as e}from"./date-CrqrNS9l.js";var t=t=>t?e(t,`D`):``,n=t=>t?e(t,`MMMM`):``,r=t=>t?e(t,`BBBB`):``,i=t=>t?e(t,`D MMMM BBBB`):``,a=e=>e===null?``:e.toLocaleString(`en-US`,{minimumFractionDigits:2,maximumFractionDigits:2});export{r as a,i,a as n,n as r,t};

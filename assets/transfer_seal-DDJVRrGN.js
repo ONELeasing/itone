@@ -1,0 +1,1 @@
+var e=`/itone/assets/transfer_seal-DEXWC4g3.png`;export{e as default};
