@@ -1,0 +1,1 @@
+import{r as e}from"./PowerOfAttorneyPage-D3LvSPy-.js";export{e as buildOneMoneyPdf};
