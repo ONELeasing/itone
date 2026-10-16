@@ -1,1 +1,0 @@
-import{t as e}from"./useQuery-DjbZsO-Y.js";import{w as t}from"./index-B68cqzHV.js";async function n(){let{data:e}=await t.get(`/employees/directory`);return e}function r(){return e({queryKey:[`directory`],queryFn:n,staleTime:6e5})}export{r as t};
