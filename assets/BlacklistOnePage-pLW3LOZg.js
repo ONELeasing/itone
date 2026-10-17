@@ -1,1 +1,0 @@
-import{J as e}from"./card-CQ3uKzYe.js";import{t}from"./BlacklistPanel-B-Gf8xbU.js";var n=e();function r(){return(0,n.jsx)(t,{source:`one`})}export{r as default};
