@@ -1,0 +1,1 @@
+import{r as e}from"./PowerOfAttorneyPage-CAGiRmvR.js";export{e as buildOneMoneyPdf};
