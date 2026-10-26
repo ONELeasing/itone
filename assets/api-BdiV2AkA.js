@@ -1,0 +1,1 @@
+import{t as e}from"./useQuery-DjbZsO-Y.js";import{w as t}from"./index-Bz7uGdkN.js";function n(){return e({queryKey:[`amc`,`attorneys`],staleTime:6e5,queryFn:async()=>(await t.get(`/amc/attorneys`)).data})}export{n as t};
