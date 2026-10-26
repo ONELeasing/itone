@@ -1,0 +1,1 @@
+import{r as e}from"./PowerOfAttorneyPage-COatADbM.js";export{e as buildOneMoneyPdf};
