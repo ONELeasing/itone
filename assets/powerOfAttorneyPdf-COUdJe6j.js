@@ -1,0 +1,1 @@
+import{r as e}from"./PowerOfAttorneyPage-CsdpyzCI.js";export{e as buildOneMoneyPdf};
