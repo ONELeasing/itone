@@ -1,0 +1,1 @@
+import{r as e}from"./PowerOfAttorneyPage-DTONAq-6.js";export{e as buildOneMoneyPdf};
