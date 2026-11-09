@@ -1,0 +1,1 @@
+import{y as e}from"./vendor-D18cHMty.js";import{t}from"./api-15sIcb_z.js";function n(){return e({queryKey:[`amc`,`attorneys`],staleTime:6e5,queryFn:async()=>(await t.get(`/amc/attorneys`)).data})}export{n as t};

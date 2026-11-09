@@ -1,0 +1,1 @@
+import{y as e}from"./vendor-D18cHMty.js";import{t}from"./api-15sIcb_z.js";async function n(){let{data:e}=await t.get(`/employees/directory`);return e}function r(){return e({queryKey:[`directory`],queryFn:n,staleTime:6e5})}export{r as t};

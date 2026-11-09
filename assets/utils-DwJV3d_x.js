@@ -1,0 +1,1 @@
+var e=new Intl.Collator(`th`,{numeric:!0}),t=(t,n)=>e.compare(t,n);export{t};
