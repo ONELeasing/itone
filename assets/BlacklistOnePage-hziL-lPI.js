@@ -1,0 +1,1 @@
+import{T as e}from"./vendor-D18cHMty.js";import{t}from"./BlacklistPanel-CoSx_l8O.js";var n=e();function r(){return(0,n.jsx)(t,{source:`one`})}export{r as default};

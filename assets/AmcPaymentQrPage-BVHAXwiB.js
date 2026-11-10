@@ -1,0 +1,1 @@
+import{T as e}from"./vendor-D18cHMty.js";import{t}from"./PaymentQrPanel-BJedJEzY.js";var n=e();function r(){return(0,n.jsx)(t,{company:`amc`})}export{r as default};
