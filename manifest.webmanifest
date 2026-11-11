@@ -1,0 +1,17 @@
+{
+  "name": "Employee Management · ONE KSM TENX",
+  "short_name": "ITONE",
+  "description": "ระบบพนักงาน ONE Leasing / KSM / TEN X — วันลา เวลาเข้า-ออก สลิปเงินเดือน งาน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#003860",
+  "icons": [
+    { "src": "pwa-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
