@@ -1,0 +1,1 @@
+import{E as e}from"./vendor-jwTzn0Fk.js";import{t}from"./BlacklistPanel-DL1K7FvT.js";var n=e();function r(){return(0,n.jsx)(t,{source:`ksm`})}export{r as default};
