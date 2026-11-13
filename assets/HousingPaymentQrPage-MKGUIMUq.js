@@ -1,0 +1,1 @@
+import{T as e}from"./vendor-Bv0lb5JJ.js";import{t}from"./PaymentQrPanel-BoN5LzfW.js";var n=e();function r(){return(0,n.jsx)(t,{company:`housing`})}export{r as default};
