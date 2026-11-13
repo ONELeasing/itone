@@ -1,0 +1,1 @@
+import{y as e}from"./vendor-Bv0lb5JJ.js";import{U as t}from"./index-a_lvf6nf.js";function n(){return e({queryKey:[`amc`,`attorneys`],staleTime:6e5,queryFn:async()=>(await t.get(`/amc/attorneys`)).data})}export{n as t};
