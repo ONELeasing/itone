@@ -1,0 +1,1 @@
+function e(e,t,n){return e?e.role===`admin`||e.permissions.some(e=>{let[r,i]=e.split(`:`);return r===t?n===void 0||i===void 0||i===n:!1}):!1}function t(e){return`${e.titleName??``}${e.firstName} ${e.lastName}`.trim()}export{t as n,e as t};
