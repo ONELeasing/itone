@@ -1,0 +1,1 @@
+var e=`/itone/assets/one-mark-BraJsku5.png`;export{e as t};
